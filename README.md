@@ -52,3 +52,6 @@ EDUAI/
 ├── models/
 ├── README.md
 └── requirements.txt
+
+Project link
+https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/08/20260504080223-7K5OMSI1.json
