@@ -4,7 +4,7 @@ AI-powered educational content generation platform designed to help students and
 
 ## 🚀 Overview
 
-EDUAI is an AI-based application that generates educational content using modern Artificial Intelligence and Machine Learning technologies. The project aims to improve digital learning by providing automated, smart, and interactive educational assistance.
+EDUAI is an AI-based application that generates educational content using modern Artificial Intelligence and Machine Learning technologies. The project aims to improve digital learning by providing[...]
 
 This project demonstrates the integration of AI tools, intelligent content generation, and modern software development practices.
 
@@ -40,8 +40,10 @@ This project demonstrates the integration of AI tools, intelligent content gener
 - APIs
 
 ---
--Project link
--https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/08/20260504080223-7K5OMSI1.json
+
+## 🔗 Project Link
+
+[EduAI Bot Chatbot](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/08/20260504080223-7K5OMSI1.json)
 
 ## 📂 Project Structure
 
@@ -54,5 +56,4 @@ EDUAI/
 ├── models/
 ├── README.md
 └── requirements.txt
-
 
