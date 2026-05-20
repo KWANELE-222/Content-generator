@@ -1,0 +1,14 @@
+"""
+Sample test file for EDUAI project.
+Add your actual tests here to replace this placeholder.
+"""
+
+def test_example():
+    """Example test case."""
+    assert 1 + 1 == 2
+
+
+def test_placeholder():
+    """Placeholder test - replace with actual tests."""
+    result = True
+    assert result is True
