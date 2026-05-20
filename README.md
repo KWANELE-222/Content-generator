@@ -40,8 +40,8 @@ This project demonstrates the integration of AI tools, intelligent content gener
 - APIs
 
 ---
-Project link
-https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/08/20260504080223-7K5OMSI1.json
+-Project link
+-https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/08/20260504080223-7K5OMSI1.json
 
 ## 📂 Project Structure
 
