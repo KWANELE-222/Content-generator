@@ -1,6 +1,11 @@
 # EDUAI 🎓🤖
 
 AI-powered educational content generation platform designed to help students and educators create intelligent learning materials efficiently.
+## 🔗 Project Link
+
+[**Try EduAI Bot Chatbot** →](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/08/20260504080223-7K5OMSI1.json)
+
+Interact with our AI-powered chatbot to explore the capabilities of EDUAI and get personalized educational assistance.
 
 ## 🚀 Overview
 
@@ -41,11 +46,7 @@ This project demonstrates the integration of AI tools, intelligent content gener
 
 ---
 
-## 🔗 Project Link
 
-[**Try EduAI Bot Chatbot** →](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/05/04/08/20260504080223-7K5OMSI1.json)
-
-Interact with our AI-powered chatbot to explore the capabilities of EDUAI and get personalized educational assistance.
 ## 📂 Project Structure
 
 ```bash
